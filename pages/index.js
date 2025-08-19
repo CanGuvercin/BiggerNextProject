@@ -16,6 +16,27 @@ const  DUMMY_MEETUPS = [
     address: '456 Elm St, City, Country',
     description: "This is the second meetup description.",
   },
+  {
+    id: 'm3',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZculqf6BqlJEs5iifInoK3CuPaXDFDlbqiQ&s',
+    title: 'Third Meetup',
+    address: '789 Oak St, City, Country',
+    description: "This is the third meetup description.",
+  },
+  {
+    id: 'm4',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZculqf6BqlJEs5iifInoK3CuPaXDFDlbqiQ&s',
+    title: 'Fourth Meetup',
+    address: '101 Pine St, City, Country',
+    description: "This is the fourth meetup description.",
+  },
+  {
+    id: 'm5',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZculqf6BqlJEs5iifInoK3CuPaXDFDlbqiQ&s',
+    title: 'Fifth Meetup',
+    address: '202 Maple St, City, Country',
+    description: "This is the fifth meetup description.",
+  },
 ];
 
 function HomePage() {
